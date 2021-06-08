@@ -10,7 +10,7 @@ project:
   title: "Évora Ticket"
   type: "Website"
   url: "https://www.evoraticket.pt/"
-  logo: "/assets/images/projects/evoraticket/logo.png"
+  logo: "/assets/images/projects/evoraticket/logo.jpg"
   tech: "Interation Design, CSS"
 
 agency:

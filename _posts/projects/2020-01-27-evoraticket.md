@@ -4,19 +4,19 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Interaction Design, Wireframing"
 
 project:
-  title: "Yellow Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  title: "Évora Ticket"
+  type: "Website"
+  url: "https://www.evoraticket.pt/"
   logo: "/assets/images/projects/yellowpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "Interation Design, CSS"
 
 agency:
-  title: "Yellow Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017, 2018"
+  title: "Decsis"
+  url: "https://www.decsis.eu/"
+  year: "2020"
 
 images:
   - image:

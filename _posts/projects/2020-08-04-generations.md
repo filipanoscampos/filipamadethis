@@ -10,7 +10,7 @@ project:
   title: "Gerações em Movimento"
   type: "Logo"
   url: ""
-  logo: "/assets/images/projects/aquapineapple/logo.png"
+  logo: "/assets/images/projects/generations/logo.png"
   tech: "Logo Design"
 
 agency:

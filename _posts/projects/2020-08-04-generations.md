@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Gerações em Movimento"
-  type: "Logo"
+  type: "Branding"
   url: ""
   logo: "/assets/images/projects/generations/logo.jpg"
   tech: "Logo Design"
